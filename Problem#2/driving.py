@@ -1,5 +1,11 @@
+"""
+    Name: Luke Runnels
+    Lab Time: 2/23/2024
+"""
+
 def driving_cost(miles_per_gallon, dollars_per_gallon, miles_driven):
    #write your code here
+   pass
 
 if __name__ == '__main__':
     miles_per_gallon = float(input())

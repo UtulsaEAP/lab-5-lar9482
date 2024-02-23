@@ -1,3 +1,8 @@
+"""
+    Name: Luke Runnels
+    Lab Time: 2/23/2024
+"""
+
 def int_to_reverse_binary(num1):
     binary_val = ''
 #write your while loop here
