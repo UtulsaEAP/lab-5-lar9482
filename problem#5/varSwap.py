@@ -20,6 +20,7 @@ if __name__ == '__main__':
    user_input3 = int(input())
    user_input4 = int(input())
    #store output for every input here
+   user_input1, user_input2, user_input3, user_input4 = swap_values(user_input1, user_input2, user_input3, user_input4)
    #print those output
    print("{0} {1} {2} {3}".format(user_input1, user_input2, user_input3, user_input4))
 
