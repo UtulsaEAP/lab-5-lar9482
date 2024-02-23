@@ -4,6 +4,9 @@
 """
 
 def fibonacci(n):
+    if (n < 0):
+        return -1
+    
     nums = []
     nums.append(0)
     nums.append(1)
